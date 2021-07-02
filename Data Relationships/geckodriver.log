@@ -1,0 +1,495 @@
+1589389645785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileSKedc7"
+1589389653741	Marionette	INFO	Listening on port 61368
+1589389654100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589389681268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileTTZFaH"
+1589389682648	Marionette	INFO	Listening on port 61411
+1589389682779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589393983668	Marionette	INFO	Stopped listening on port 61411
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\abhin\\AppData\\Local\\Temp\\rust_mozprofile8OXrVD"
+1589389930696	Marionette	INFO	Listening on port 61528
+1589389930762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589393983668	Marionette	INFO	Stopped listening on port 61528
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofilej65kxp"
+1589389979377	Marionette	INFO	Listening on port 61589
+1589389979570	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589393983731	Marionette	INFO	Stopped listening on port 61589
+rs\\abhin\\AppData\\Local\\Temp\\rust_mozprofileYb4ZOb"
+1589390015873	Marionette	INFO	Listening on port 61650
+1589390015951	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+1589393983532	Marionette	INFO	Stopped listening on port 61650
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+te to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589393608357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileS3Y6nT"
+1589393609843	Marionette	INFO	Listening on port 63973
+1589393609873	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589393983257	Marionette	INFO	Stopped listening on port 63973
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+stening on port 64143
+1589393774586	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589393983318	Marionette	INFO	Stopped listening on port 64143
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+andler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589393982776	Marionette	INFO	Stopped listening on port 64204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589393995190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofilenmAQ30"
+1589393996788	Marionette	INFO	Listening on port 64304
+1589393997198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589406340137	Marionette	INFO	Stopped listening on port 64304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+stening on port 64351
+1589394017509	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25444, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1589394070773	Marionette	INFO	Stopped listening on port 64351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589394232443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofilek1rGUN"
+1589394233993	Marionette	INFO	Listening on port 64407
+1589394234460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2004: TypeError: event.target.closest is not a function
+1589394279354	Marionette	INFO	Stopped listening on port 64407
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589394291672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileId80yz"
+1589394293185	Marionette	INFO	Listening on port 64478
+1589394293194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589394309359	Marionette	INFO	Stopped listening on port 64478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589394731167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofilenuPHQ0"
+1589394732672	Marionette	INFO	Listening on port 64608
+1589394732698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589394744612	Marionette	INFO	Stopped listening on port 64608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589429738876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofiled2CTq6"
+1589429741597	Marionette	INFO	Listening on port 50516
+1589429741996	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589430444105	Marionette	INFO	Stopped listening on port 50516
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589429879805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofilepyvE4b"
+1589429881873	Marionette	INFO	Listening on port 50615
+1589429881920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589429919121	Marionette	INFO	Stopped listening on port 50615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589429935551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile8Q6yNW"
+1589429937556	Marionette	INFO	Listening on port 50664
+1589429937572	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589429948845	Marionette	INFO	Stopped listening on port 50664
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589429992604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileQ6j50Q"
+1589429994569	Marionette	INFO	Listening on port 50741
+1589429994634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589430249531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileogL00u"
+1589430251742	Marionette	INFO	Listening on port 50933
+1589430252145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589430260169	Marionette	INFO	Stopped listening on port 50933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589430293291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile2l9P2y"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380130,name=PContent::Msg_CacheBrowsingContextChildren) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380129,name=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2000B4,name=PBrowser::Msg_NewWindowGlobal) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380129,name=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB80015,name=PWindowGlobal::Msg_SetClientInfo) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB8000D,name=PWindowGlobal::Msg_UpdateDocumentURI) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380129,name=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380141,name=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380141,name=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB80016,name=PWindowGlobal::Msg_Destroy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB8000A,name=PWindowGlobal::Msg_RawMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x20004A,name=PBrowser::Msg_OnLocationChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x20004C,name=PBrowser::Msg_OnSecurityChange) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10968, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589430385632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileZsJfUC"
+1589430387749	Marionette	INFO	Listening on port 51034
+1589430388248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589430401891	Marionette	INFO	Stopped listening on port 51034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589430419654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileKZkRFu"
+1589430421585	Marionette	INFO	Listening on port 51085
+1589430421680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589430427526	Marionette	INFO	Stopped listening on port 51085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589430439977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileBGkq2T"
+1589430442066	Marionette	INFO	Listening on port 51133
+1589430442092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js?441512, line 1: Error: CE: multiple userscripts installed
+1589442202294	Marionette	INFO	Stopped listening on port 51133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+andler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589430593130	Marionette	INFO	Stopped listening on port 51197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589441664714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile9sTlOp"
+1589441667527	Marionette	INFO	Listening on port 51513
+1589441667840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589442102241	Marionette	INFO	Stopped listening on port 51513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+stening on port 51574
+1589441789215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589442100969	Marionette	INFO	Stopped listening on port 51574
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileJ4SI5h"
+1589441869349	Marionette	INFO	Listening on port 51623
+1589441869818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589442099804	Marionette	INFO	Stopped listening on port 51623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+stening on port 51686
+1589442099321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589442138151	Marionette	INFO	Stopped listening on port 51686
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589453118702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile07KE6N"
+1589453121482	Marionette	INFO	Listening on port 55214
+1589453121834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589454459639	Marionette	INFO	Stopped listening on port 55214
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+stening on port 55286
+1589453170528	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589453198442	Marionette	INFO	Stopped listening on port 55286
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589453213157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileyOno5g"
+1589453214633	Marionette	INFO	Listening on port 55346
+1589453214671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589453291444	Marionette	INFO	Stopped listening on port 55346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileZjZC5R"
+1589453287131	Marionette	INFO	Listening on port 55429
+1589453287542	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:402:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:402:10
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589469215258	Marionette	INFO	Stopped listening on port 55429
+tte	WARN	TLS certificate errors will be ignored for this session
+1589467191806	Marionette	INFO	Stopped listening on port 60089
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589468575447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileip9lb6"
+1589468577854	Marionette	INFO	Listening on port 60254
+1589468578067	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589468587652	Marionette	INFO	Stopped listening on port 60254
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589469210914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileiRRvgV"
+1589469213828	Marionette	INFO	Listening on port 60384
+1589469214042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589469243864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile5ue0fz"
+1589469246829	Marionette	INFO	Listening on port 60436
+1589469246991	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:402:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+1589474981598	Marionette	INFO	Stopped listening on port 60436
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileqIEC1o"
+1589469973599	Marionette	INFO	Listening on port 60746
+1589469973970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589470003960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileU6ivYS"
+1589470006192	Marionette	INFO	Listening on port 60805
+1589470006614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589474984400	Marionette	INFO	Stopped listening on port 60805
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile8Pppxt"
+1589470239345	Marionette	INFO	Listening on port 60959
+1589470239701	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589470305358	Marionette	INFO	Stopped listening on port 60959
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+session
+1589474986208	Marionette	INFO	Stopped listening on port 61032
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileDsymIy"
+1589470338810	Marionette	INFO	Listening on port 61095
+1589470338985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589470451688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile4QcfW7"
+1589470453895	Marionette	INFO	Listening on port 61201
+1589470454324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589474988426	Marionette	INFO	Stopped listening on port 61201
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofilekpaPJw"
+1589470591712	Marionette	INFO	Listening on port 61352
+1589470592015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589474990574	Marionette	INFO	Stopped listening on port 61352
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileUzNdF7"
+1589470642441	Marionette	INFO	Listening on port 61421
+1589470642471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589474990989	Marionette	INFO	Stopped listening on port 61421
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile7EIuiS"
+[Parent 30288, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589471537858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileA8sS1z"
+1589471540376	Marionette	INFO	Listening on port 62006
+1589471540492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589471608199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofilemeOrj5"
+1589471610450	Marionette	INFO	Listening on port 62087
+1589471610825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589471657934	Marionette	INFO	Stopped listening on port 62087
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589471748711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofiletywRUb"
+1589471751068	Marionette	INFO	Listening on port 62205
+1589471751358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1589471753896	Marionette	INFO	Stopped listening on port 62205
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589471763695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofileBPoCYA"
+1589471765972	Marionette	INFO	Listening on port 62251
+1589471766334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589471792531	Marionette	INFO	Stopped listening on port 62251
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589471863451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhin\\AppData\\Local\\Temp\\rust_mozprofile5ZuAv1"
+1589471866053	Marionette	INFO	Listening on port 62536
+1589471866083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589473179659	Marionette	INFO	Stopped listening on port 62536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
